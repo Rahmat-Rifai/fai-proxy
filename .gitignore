@@ -1,0 +1,12 @@
+# Downloaded 3proxy binary
+bin/
+tools/
+
+# Runtime state
+logs/
+run/
+
+# Credentials - never commit these
+credentials.txt
+config/*.users
+proxy-list.txt
